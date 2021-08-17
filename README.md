@@ -1,4 +1,13 @@
-👋 Hi there 👋
+👩‍💻👋 Hi there, I'm Daniel Rocha 👋👩‍💻
+
+<!--🔭 Currently work: Computer Education for Children;-->
+
+👨‍🎓 Studying: Systems Analysis and Development at SENAC-SP;
+
+🌱 Learning: ASP.NET Core, API Rest, VB.NET;
+
+🎒 Main Tools: Visual Studio, Visual Studio Code and GitHub;
+
 ##
 
 <div>
