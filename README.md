@@ -4,9 +4,9 @@
 
 👨‍🎓 Studying: Systems Analysis and Development at SENAC-SP;
 
-🌱 Learning: ASP.NET Core, API Rest, VB.NET;
-
 🎒 Main Tools: Visual Studio, Visual Studio Code and GitHub;
+
+🌱 Learning: <img align="center" alt="DanielRch-Js" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/dotnetcore/dotnetcore-original.svg">
 
 ##
 
@@ -17,11 +17,9 @@
   
 <div style="display: inline_block"><br>
   <img align="center" alt="DanielRch-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="center" alt="DanielRch-Js" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/dotnetcore/dotnetcore-original.svg">
-  <img align="center" alt="DanielRch-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="DanielRch-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="DanielRch-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-
+  <img align="center" alt="DanielRch-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
 </div>
   
   ##
